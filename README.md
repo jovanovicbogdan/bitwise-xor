@@ -23,6 +23,6 @@ If we have an array `[ 1, 2, 3, 4, 4, 5 ]` and we apply the rules above we get:
 a ^ b ^ c ^ d ^ d ^ e => a ^ b ^ c ^ 0 ^ e
 ```
 
-we will get the duplicated number as it will equal to 0.
+We will get the duplicated number as it will equal to 0.
 
 The same can be applied to find the missing number in the array.

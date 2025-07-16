@@ -7,7 +7,7 @@ C implementation of using Bitwise XOR for finding a duplicate or a missing numbe
 If we take a look at the XOR truth table:
 
 | x | y | x ^ y |
-| - | - | ----- |
+| - | - | :---: |
 | 1 | 1 |   0   |
 | 1 | 0 |   1   |
 | 0 | 1 |   1   |
